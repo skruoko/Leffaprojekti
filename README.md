@@ -1,2 +1,2 @@
 # Leffaprojekti
-HTML; CSS; Javascript
+HTML; CSS; Javascript demo
